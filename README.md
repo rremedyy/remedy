@@ -4,7 +4,7 @@
 ### Status: 
 ###### the project has started
 
-## 🍧 Featured Project
+## 👨‍💻 Featured Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rremedyy&repo=note-saver&theme=dark)](https://github.com/rremedyy/note-saver)
 
