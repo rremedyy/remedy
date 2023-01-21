@@ -1,4 +1,4 @@
-### hi im remedy. <img src="https://media.tenor.com/uYpmkAGo-EgAAAAd/clash-royale.gif" width=20 height=20>
+### hi im remedy. <img src="https://media.tenor.com/uYpmkAGo-EgAAAAd/clash-royale.gif" width=50 height=50>
 ###### Software and designer hobbyist. <br> Not currently employed. <br> https://rremedyy.github.io/bio/
 
 ### Status: 
