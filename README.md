@@ -1,7 +1,7 @@
 ### hi im remedy <img src="https://media.tenor.com/uYpmkAGo-EgAAAAd/clash-royale.gif" width=50 height=50>
 ###### Software and Graphic Designer hobbyist. <br> https://rremedyy.github.io/bio/
 
-🗣 Languages:
+💻 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35">
 <div>
