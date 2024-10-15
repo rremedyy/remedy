@@ -60,7 +60,7 @@
 					DisplayOrder = 15,
 					IgnoreGuiInset = true,
 					Name = "drawingDirectory",
-					Parent = game:GetService("Players").LocalPlayer.PlayerGui,
+					Parent = gethui(),
 					ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 				}
 			)
