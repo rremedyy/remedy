@@ -78,6 +78,7 @@ do
 	local drawingDirectory = create("ScreenGui", {
 		DisplayOrder = 15,
 		IgnoreGuiInset = true,
+		ResetOnSpawn = false;
 		Name = "drawingDirectory",
 		Parent = game:GetService("Players").LocalPlayer.PlayerGui, --gethui(),
 		ZIndexBehavior = Enum.ZIndexBehavior.Sibling
